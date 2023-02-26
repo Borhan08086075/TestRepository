@@ -4,7 +4,8 @@ public class WhileLoopDEmo {
 
 	public static void main(String[] args) {
 		
-		String place = "Brooklyn";
+		//change the location
+		String place = "Quence";
 		int start = 1;
 		
 		

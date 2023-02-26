@@ -5,8 +5,8 @@ public class DoWhileDemo {
 	public static void main(String[] args) {
 		
 		
-		
-		String place = "Brooklyn";
+		//made changes to the place
+		String place = "The Bronx";
 		int start = 1;
 		
 		
