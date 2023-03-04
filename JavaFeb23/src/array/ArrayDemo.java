@@ -3,7 +3,7 @@ package array;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		
+	//masud vai I love you	
 	//declaring array
 	String[] myArray = new String[3]; 
 	//assigning value to the array
